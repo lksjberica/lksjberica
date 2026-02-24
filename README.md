@@ -4,6 +4,7 @@
 📊 Excel Specialist (Financial analysis, Data analytics & Operations)  
 ⚙️ Building solutions to optimize processes and workflows  
 🚀 Interested in AI, automation, financial tools and process optimization
+🚀 Exploring Web3, automation and crypto-native tooling
 
 ---
 
