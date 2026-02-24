@@ -1,12 +1,43 @@
-Well, well, well, I really like this
+# 👋 Hi, I'm Johny
 
-- 👋 Hi, I’m @lksjberica.
-- 👀 I’m interested in soccer (joke, but not so much).
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on everything I can.
-- 📫 How to reach me, just look for @jberica on Facebook, Instagram and Twitter.
+💻 Python Developer focused on automation and practical tools  
+📊 Excel Specialist (Financial analysis, Data analytics & Operations)  
+⚙️ Building solutions to optimize processes and workflows  
 
-<!---
-lksjberica/lksjberica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🚀 Featured Project
+
+### Yupoo Downloader
+Python-based tool to download Yupoo album images with automatic EXIF metadata removal.
+
+- Standalone executable (.exe)
+- CLI-based workflow
+- Metadata stripping automation
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Python
+- Automation Scripts
+- Web Scraping (Requests, BeautifulSoup)
+
+### Data & Finance
+- Excel (Advanced formulas, Financial analysis, Dashboards)
+- Data Analytics
+- Pivot Tables & Reporting
+- Operational Optimization
+
+### Skills
+- Writing
+- Research
+- Operations
+- Product Feedback
+- Process Improvement
+
+---
+
+## 📍 Location
+Curitiba, Brazil
