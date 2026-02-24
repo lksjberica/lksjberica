@@ -3,6 +3,7 @@
 💻 Python Developer focused on automation and practical tools  
 📊 Excel Specialist (Financial analysis, Data analytics & Operations)  
 ⚙️ Building solutions to optimize processes and workflows  
+🚀 Interested in AI, automation, financial tools and process optimization
 
 ---
 
